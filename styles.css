@@ -289,8 +289,8 @@ h3{
 .projects-grid {
     display: grid;
     grid-template-columns: 1fr 1fr;
-    grid-template-rows: 1fr 1fr;
-    gap: 5%;
+    grid-template-rows: 1fr 1fr 1fr;
+    gap: 2%;
 }
 
 .projects h1{
